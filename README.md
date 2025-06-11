@@ -28,10 +28,9 @@ python main.py
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="./screenshots/login.png" width="45%" alt="Login Screen">
-  <img src="./screenshots/main.jpg" width="45%" alt="Main Interface">  
-</div>
+![WhatsApp Image 2025-06-11 at 10 56 09_83373231](https://github.com/user-attachments/assets/35d77e8e-af8d-42db-bbfa-e628498ac1d1)
+
+
 
 ## 🛠️ Tech Stack
 
