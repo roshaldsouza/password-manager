@@ -1,5 +1,9 @@
 # 🔐 SecureVault - Password Manager 
+<div align="center">
 
+![Project Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVpdHJibGpxaTY2YjYwNDVxNGJ2MHZjdXJuOHN4OWJqNHVoNDNmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qxXWdM1lssRMqIa4Bm/giphy.gif)
+
+</div>
 ![Demo GIF](./demo.gif) <!-- Replace with your actual GIF file -->
 
 A modern password manager with military-grade encryption and breach detection. Never use a compromised password again!
