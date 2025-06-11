@@ -30,7 +30,7 @@ python main.py
 
 <div align="center">
   <img src="./screenshots/login.png" width="45%" alt="Login Screen">
-  <img src="./screenshots/main.png" width="45%" alt="Main Interface">  
+  <img src="./screenshots/main.jpg" width="45%" alt="Main Interface">  
 </div>
 
 ## 🛠️ Tech Stack
